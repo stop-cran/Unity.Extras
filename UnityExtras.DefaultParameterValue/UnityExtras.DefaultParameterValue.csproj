@@ -5,10 +5,11 @@
     <LangVersion>latest</LangVersion>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Authors>stop-cran</Authors>
-    <Description>Some extra tools for Unity container.</Description>
-    <Copyright>Apache 2.0 (stop-cran, 2018)</Copyright>
-    <RepositoryUrl>https://github.com/stop-cran/Unity.Extras.DefaultParameterValue</RepositoryUrl>
+    <Description>Unity Container extension, that resolves constructor and method default values.</Description>
+    <Copyright>Apache License 2.0 (stop-cran, 2018)</Copyright>
+    <RepositoryUrl>https://github.com/stop-cran/UnityExtras.DefaultParameterValue</RepositoryUrl>
     <PackageTags>unity ioc</PackageTags>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>

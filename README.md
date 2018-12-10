@@ -1,8 +1,8 @@
-# Overview
+# Overview [![NuGet](https://img.shields.io/nuget/v/UnityExtras.DefaultParameterValue.svg)](https://www.nuget.org/packages/UnityExtras.DefaultParameterValue) [![Build Status](https://travis-ci.com/stop-cran/Unity.Extras.DefaultParameterValue.svg?branch=master)](https://travis-ci.com/stop-cran/Unity.Extras.DefaultParameterValue)
 
 This package provides an extension for [Unity Container](https://github.com/unitycontainer/unity) that resolves constructor and method default values taking the values via reflection.
 
-# Installation [![NuGet](https://img.shields.io/nuget/v/UnityExtras.DefaultParameterValue.svg)](https://www.nuget.org/packages/UnityExtras.DefaultParameterValue)
+# Installation
 
 NuGet package is available [here](https://www.nuget.org/packages/UnityExtras.DefaultParameterValue/).
 
